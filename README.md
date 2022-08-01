@@ -1,1 +1,1 @@
-# -hand_gesture_project
+# hand_gesture_project
